@@ -61,7 +61,7 @@ The product enforces this architecturally:
 **Email:** aaron@simplifii.com.au
 **LinkedIn:** [Aaron Saint-James](https://linkedin.com/in/aaron-saint-james)
 **Product-beta-1:** [simplifii.com.au](https://simplifii.com.au)
-**Product-beta-2:** [simplifii.com.au](https://simplifii-beta.com)
+**Product-beta-2:** [simplifii-beta.com](https://simplifii-beta.com)
 
 ---
 
